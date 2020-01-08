@@ -14,3 +14,9 @@
   width: 300px;
   float: left;
 }
+.my-class {
+  border: 12px solid green;
+  padding: 24px;
+  margin: 12px;
+  background-color: aqua
+}
